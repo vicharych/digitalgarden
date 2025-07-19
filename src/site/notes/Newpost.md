@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/newpost/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/newpost/"}
 ---
 
 **Вариант 1: Глубокий космос**
